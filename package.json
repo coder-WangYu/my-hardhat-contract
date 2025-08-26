@@ -19,5 +19,9 @@
     "ts-node": "^10.9.2",
     "typescript": "~5.0.4",
     "viem": "^2.35.1"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.4.0",
+    "dotenv": "^17.2.1"
   }
 }
